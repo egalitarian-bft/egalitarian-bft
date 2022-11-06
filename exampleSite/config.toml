@@ -20,9 +20,9 @@ title = "Egalitarian BFT"
 
   [params.logo]
     mobile = "images/logo/ebft-s.png"
-    mobile_height = "72px"
+    mobile_height = "50px"
     desktop = "images/logo/ebft-s.png"
-    desktop_height = "72px"
+    desktop_height = "50px"
     alt = "Egalitarian BFT - Building simplest BFT protocols"
 
   [params.fonts]
@@ -55,19 +55,19 @@ title = "Egalitarian BFT"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
-    url = "/services/"
-    weight = 1
+   # name = "Services"
+   # url = "/services/"
+   # weight = 1
 
   [[menu.main]]
-    name = "Team"
-    url = "/team/"
-    weight = 2
+    # name = "Team"
+    # url = "/team/"
+    # weight = 2
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
+    # name = "About"
+    # url = "/about/"
+    # weight = 3
 
   # Footer Menu
   [[menu.footer]]
