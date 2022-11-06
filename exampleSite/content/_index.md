@@ -1,12 +1,12 @@
 ---
 title: 'Homepage'
-meta_title: 'Hugo Serif Theme'
-description: "Serif is a modern business theme for Hugo."
+meta_title: 'Egalitarian BFT Framework'
+description: "Egalitarian BFT is a framework of the simpliest BFT protocols."
 intro_image: "images/illustrations/1.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+# Egalitarian BFT- A framework of (partially) synchronous BFT protocols without view-change mechanisms.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Egalitarian BFT enjoys both the  same-level simplcity with Nakamoto Consensus and security of classical BFT prootocls. 
