@@ -20,9 +20,9 @@ title = "Egalitarian BFT"
 
   [params.logo]
     mobile = "images/logo/EBFT.png"
-    mobile_height = "36px"
+    mobile_height = "108px"
     desktop = "images/logo/EBFT.png"
-    desktop_height = "36px"
+    desktop_height = "108px"
     alt = "Egalitarian BFT - Building simplest BFT protocols"
 
   [params.fonts]
