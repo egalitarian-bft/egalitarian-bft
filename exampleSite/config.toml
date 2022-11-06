@@ -65,9 +65,9 @@ title = "Egalitarian BFT"
     # weight = 2
 
   [[menu.main]]
-    # name = "About"
-    # url = "/about/"
-    # weight = 3
+     name = "About"
+     url = "/about/"
+     weight = 3
 
   # Footer Menu
   [[menu.footer]]
