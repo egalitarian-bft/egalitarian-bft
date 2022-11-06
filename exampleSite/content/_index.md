@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Egalitarian BFT- A framework of (partially) synchronous BFT protocols without view-change mechanisms.
+# Egalitarian BFT
 
-Egalitarian BFT enjoys both the  same-level simplcity with Nakamoto Consensus and security of classical BFT prootocls. 
+Egalitarian BFT is a framework of the simplest partially synchronous or synchronous BFT protocols by removing the view-change mechanism. Egalitarian BFT  enjoys both the  same-level simplcity with Nakamoto Consensus and security of classical BFT prootocls. 
