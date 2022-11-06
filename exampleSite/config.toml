@@ -19,10 +19,10 @@ title = "Egalitarian BFT"
     show_services_button = false # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/EBFT.png"
-    mobile_height = "108px"
-    desktop = "images/logo/EBFT.png"
-    desktop_height = "108px"
+    mobile = "images/logo/ebft-s.png"
+    mobile_height = "72px"
+    desktop = "images/logo/ebft-s.png"
+    desktop_height = "72px"
     alt = "Egalitarian BFT - Building simplest BFT protocols"
 
   [params.fonts]
